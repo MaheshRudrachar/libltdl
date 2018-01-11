@@ -1,3 +1,5 @@
+Test2 branch
+
 AC_INIT([Haskell libltdl interface], [0.1], [mainland@eecs.harvard.edu], [libltdl])
 
 AC_CONFIG_SRCDIR([Foreign/LibLTDL.hs])
